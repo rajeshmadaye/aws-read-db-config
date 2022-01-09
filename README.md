@@ -47,5 +47,3 @@ aws lambda create-function --function-name ${FUNCTION_NAME} --zip-file fileb://$
 
 ## License
 MIT
-
-**Free Software, Keep Learning!**
